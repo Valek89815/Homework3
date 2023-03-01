@@ -1,0 +1,15 @@
+C:\Тренировка\Homework3\Homework\Homework2\bin\Debug\net6.0\Homework2.exe
+C:\Тренировка\Homework3\Homework\Homework2\bin\Debug\net6.0\Homework2.deps.json
+C:\Тренировка\Homework3\Homework\Homework2\bin\Debug\net6.0\Homework2.runtimeconfig.json
+C:\Тренировка\Homework3\Homework\Homework2\bin\Debug\net6.0\Homework2.dll
+C:\Тренировка\Homework3\Homework\Homework2\bin\Debug\net6.0\Homework2.pdb
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.csproj.AssemblyReference.cache
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfoInputs.cache
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.AssemblyInfo.cs
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.dll
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\refint\Homework2.dll
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.pdb
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\Homework2.genruntimeconfig.cache
+C:\Тренировка\Homework3\Homework\Homework2\obj\Debug\net6.0\ref\Homework2.dll
